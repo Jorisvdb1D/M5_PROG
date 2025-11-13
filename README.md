@@ -20,5 +20,10 @@ opdracht is om cube te laten bewegen
 
 [link](Prog_Opdrachten/Assets/Scripts/AddForce.cs)
 
+## opdracht 2 datatypes ## 
+verschillende data types kennen
 
+![alttext](Datatypes.gif)
+
+[link](Prog_Opdrachten/Assets/Scripts/VariabelenTest.cs)
 
