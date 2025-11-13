@@ -16,7 +16,7 @@ Opdracht was om de bal op random plekken te spawnen met random kleuren
 ## opdracht 1 Gameobject besturen met script ##
 opdracht is om cube te laten bewegen
 
-![alttext](opdracht 1.gif) 
+![alttext](opdracht1.gif) 
 
 [link](Prog_Opdrachten\Assets\Scripts\AddForce.cs)
 
