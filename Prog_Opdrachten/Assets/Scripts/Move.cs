@@ -13,7 +13,6 @@ public class Move : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        transform.position = new Vector3(0, 5, 0);
-        transform.localScale = new Vector3(2, 2, 2);
+        
     }
 }
